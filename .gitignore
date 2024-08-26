@@ -1,0 +1,11 @@
+.idea/
+.settings/
+deployment/
+userlib/
+*.iml
+*.tmp
+*.log
+*.class
+*.jar
+*.war
+*.ear
